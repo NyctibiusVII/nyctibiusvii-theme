@@ -1,9 +1,9 @@
 {
     "name": "nyctibiusvii-theme",
-    "displayName": "nyctibiusvii-theme",
+    "displayName": "NyctibiusVI Theme",
     "description": "Meu tema para o VSCode 🎨",
     "publisher": "NyctibiusVII",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "license": "MIT",
     "homepage": "https://github.com/NyctibiusVII/nyctibiusvii-theme",
     "maintainers": ["Matheus Vidigal <matheus.dev.07@gmail.com>"],
