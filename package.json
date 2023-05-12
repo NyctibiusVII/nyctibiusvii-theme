@@ -3,7 +3,7 @@
     "displayName": "NyctibiusVI Theme",
     "description": "Meu tema para o VSCode 🎨",
     "publisher": "NyctibiusVII",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "homepage": "https://github.com/NyctibiusVII/nyctibiusvii-theme",
     "maintainers": ["Matheus Vidigal <matheus.dev.07@gmail.com>"],
@@ -44,5 +44,10 @@
                 "path": "./themes/kyanite.json"
             }
         ]
+    },
+    "__metadata": {
+        "id": "NyctibiusVII.nyctibiusvii-theme",
+        "publisherDisplayName": "NyctibiusVII",
+        "publisherId": "c181925f-ce75-6f8a-af40-04dd32659634"
     }
 }

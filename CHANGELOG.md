@@ -11,3 +11,5 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Add theme Kyanite
 
 - Updated files
+
+- Add __metadata in package.json

@@ -6,7 +6,7 @@
 <h4 align="center">Dark themes for Visual Studio Code</h4>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00ef91&labelColor=000000" alt="PRs open">
-    <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.1&color=00ef91&labelColor=000000" alt="Version">
+    <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.2&color=00ef91&labelColor=000000" alt="Version">
     <img src="https://img.shields.io/static/v1?label=Themes&message=1&color=00ef91&labelColor=000000" alt="Number of themes">
     <img src="https://img.shields.io/github/repo-size/NyctibiusVII/nyctibiusvii-theme?color=00ef91&labelColor=000000" alt="Repo size">
     <a href="https://github.com/NyctibiusVII/nyctibiusvii-theme/blob/main/LICENSE">
