@@ -1,0 +1,8 @@
+node_modules
+*.vsix
+README-BACKUP.md
+procedure.txt
+.vscode/settings.json
+bin
+.idea
+*_test.yml

@@ -1,0 +1,48 @@
+{
+    "name": "nyctibiusvii-theme",
+    "displayName": "nyctibiusvii-theme",
+    "description": "Meu tema para o VSCode 🎨",
+    "publisher": "NyctibiusVII",
+    "version": "1.0.0",
+    "license": "MIT",
+    "homepage": "https://github.com/NyctibiusVII/nyctibiusvii-theme",
+    "maintainers": ["Matheus Vidigal <matheus.dev.07@gmail.com>"],
+    "scripts": {
+        "vsce-publish": "vsce publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/NyctibiusVII/nyctibiusvii-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/NyctibiusVII/nyctibiusvii-theme/issues"
+    },
+    "engines": {
+        "vscode": "^1.78.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "vscode-theme",
+        "nyctibiusvii",
+        "color-theme",
+        "kyanite",
+        "theme",
+        "dark"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#00ef91",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "kyanite",
+                "uiTheme": "vs-dark",
+                "path": "./themes/kyanite.json"
+            }
+        ]
+    }
+}
