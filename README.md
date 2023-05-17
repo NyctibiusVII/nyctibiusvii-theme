@@ -1,12 +1,12 @@
 <h1 align="center">
-    <img src="https://github.com/NyctibiusVII/nyctibiusvii-theme/assets/52816125/cf85e76b-b05a-40ef-a764-9e711b7003ea" width="125" alt="Logo">
+    <img src="icon.png" width="125" alt="Logo">
     <br>
     NyctibiusVII Theme for <a href="https://code.visualstudio.com">Visual Studio Code</a>
 </h1>
 <h4 align="center">Dark themes for Visual Studio Code</h4>
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=00ef91&labelColor=000000" alt="PRs open">
-    <img src="https://img.shields.io/static/v1?label=Version&message=v1.0.2&color=00ef91&labelColor=000000" alt="Version">
+    <img src="https://img.shields.io/static/v1?label=Version&message=v1.1.4&color=00ef91&labelColor=000000" alt="Version">
     <img src="https://img.shields.io/static/v1?label=Themes&message=1&color=00ef91&labelColor=000000" alt="Number of themes">
     <img src="https://img.shields.io/github/repo-size/NyctibiusVII/nyctibiusvii-theme?color=00ef91&labelColor=000000" alt="Repo size">
     <a href="https://github.com/NyctibiusVII/nyctibiusvii-theme/blob/main/LICENSE">
@@ -19,7 +19,7 @@
     <a href="#license-%EF%B8%8F">License</a>
 </p>
 
-<p align="center"><img src="https://github.com/NyctibiusVII/nyctibiusvii-theme/assets/52816125/45593ee3-bba1-4d87-828c-d417724e4a9d"></p>
+<p align="center"><img src=".github/screenshot.png"></p>
 
 ## Installation 📥
 
@@ -53,9 +53,3 @@ Want to [contribute](https://github.com/NyctibiusVII/nyctibiusvii-theme/blob/mai
 ## License ⚖️
 
 This project is under the MIT license. See the [LICENSE](https://github.com/NyctibiusVII/nyctibiusvii-theme/blob/main/LICENSE) file for more details.
-
-## Contribuidores 🦸🏻‍♂️
-
-<a href="https://github.com/NyctibiusVII/nyctibiusvii-theme/graphs/contributors">
-    <img src="https://contributors-img.web.app/image?repo=NyctibiusVII/nyctibiusvii-theme&max=50" alt="Lista de contribuidores" width="15%"/>
-</a>

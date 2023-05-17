@@ -3,7 +3,7 @@
     "displayName": "NyctibiusVI Theme",
     "description": "Meu tema para o VSCode 🎨",
     "publisher": "NyctibiusVII",
-    "version": "1.0.2",
+    "version": "1.1.4",
     "license": "MIT",
     "homepage": "https://github.com/NyctibiusVII/nyctibiusvii-theme",
     "maintainers": ["Matheus Vidigal <matheus.dev.07@gmail.com>"],
@@ -18,7 +18,7 @@
         "url": "https://github.com/NyctibiusVII/nyctibiusvii-theme/issues"
     },
     "engines": {
-        "vscode": "^1.78.0"
+        "vscode": "^1.78.2"
     },
     "categories": [
         "Themes"
